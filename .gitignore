@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch models
+models/*.pt
+models/*.pth
+
+# Data
+data/training_data.txt
+data/*.txt
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code / IDEs
+.vscode/
+.idea/
